@@ -3,6 +3,7 @@ public class Hello {
         System.out.println("hello world");
 
         System.out.println("one more time");
+        System.out.println("without gitignore");
 
     }
 }
